@@ -7,7 +7,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class SudokuPuzzle 
+public class SudokuPuzzle //class
 {
 
 	public static int[][]Board = new int[9][9];
