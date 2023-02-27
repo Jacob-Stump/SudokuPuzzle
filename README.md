@@ -1,2 +1,2 @@
 # SudokuPuzzle
-Play a static game of Sudoku
+Play a game of sudoku within the console
